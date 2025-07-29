@@ -1,5 +1,7 @@
 # Amigo Secreto — Aplicação Web para Sorteios Interativos
 
+[Acesse o projeto online na Vercel](https://jogo-amigo-secreto-gules.vercel.app)
+
 Este projeto é uma aplicação web simples e funcional para sorteios de **amigo secreto**, desenvolvida com foco em usabilidade, código limpo e estilo moderno. A interface permite cadastrar nomes, sortear participantes de forma aleatória e gerenciar os resultados de maneira clara e prática.
 
 * * *
